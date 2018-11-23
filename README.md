@@ -1,10 +1,10 @@
 # CBNUOpenSource
 CBNU Open Source Repo
 
-## 참가자 명단
+## List
 * 소현섭
 * 강산
-* 김찬영
+* Kim Chan Yeong
 
 
 ## 추천 프로그램
